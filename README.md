@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anmol maheshwaro</h1>
+<h1 align="center">Hi 👋, I'm Anmol maheshwari</h1>
 <h3 align="center">I am Anmol Maheshwari a passionate coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolmaheshwari12&label=Profile%20views&color=0e75b6&style=flat" alt="anmolmaheshwari12" /> </p>
